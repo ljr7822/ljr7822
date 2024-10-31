@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi,很高兴见到你 👋  
+我是 xiaoxun，欢迎来到我的 Github 主页 😉
+
+|  ♈️ Android Developer    |    ✍️Blogger   |    📷 打杂 cameraman   |
+| ---- | ---- | ---- |
 
 <!--
 **ljr7822/ljr7822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
