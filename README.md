@@ -5,12 +5,13 @@
 | ---- | ---- | ---- |
 
 ### 在哪里找到我
-| 掘金 | 简书 | 邮箱|
-| :-: | :-: | :-: |
-| [点我](https://juejin.cn/user/3702810894932487) | [点我](https://www.jianshu.com/u/1487025239ff) | gg1816807688@gmail.com|
+
+[![掘金](https://cdn.jsdelivr.net/gh/ljr7822/pic_repo/juejing3.jpg)](https://juejin.cn/user/3702810894932487/columns)&emsp;&emsp;[![简书](https://cdn.jsdelivr.net/gh/ljr7822/pic_repo/jianshu.jpg)](https://www.jianshu.com/u/1487025239ff)&emsp;&emsp;
+
 
 <img src= "https://github-readme-stats.vercel.app/api?username=ljr7822&count_private=true&show_icons=true&hide=prs&hide_title=true" width="50%">
-<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ljr7822&theme=material-palenight&hide_border=false" alt="ljr7822" /></p> -->
+
+
 <!--
 **ljr7822/ljr7822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
