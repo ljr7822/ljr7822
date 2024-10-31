@@ -6,7 +6,7 @@
 
 ### 在哪里找到我
 
-[![掘金](https://cdn.jsdelivr.net/gh/ljr7822/pic_repo/juejing3.jpg)](https://juejin.cn/user/3702810894932487/columns)&emsp;&emsp;[![简书](https://cdn.jsdelivr.net/gh/ljr7822/pic_repo/jianshu.jpg)](https://www.jianshu.com/u/1487025239ff)&emsp;&emsp;
+[![掘金](https://cdn.jsdelivr.net/gh/ljr7822/pic_repo/juejing3.jpg)](https://juejin.cn/user/3702810894932487/posts)&emsp;&emsp;[![简书](https://cdn.jsdelivr.net/gh/ljr7822/pic_repo/jianshu.jpg)](https://www.jianshu.com/u/1487025239ff)&emsp;&emsp;
 
 
 <img src= "https://github-readme-stats.vercel.app/api?username=ljr7822&count_private=true&show_icons=true&hide=prs&hide_title=true" width="50%">
