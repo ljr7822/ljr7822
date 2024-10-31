@@ -4,6 +4,11 @@
 |  ♈️ Android Developer    |    ✍️Blogger   |    📷 打杂 cameraman   |
 | ---- | ---- | ---- |
 
+### 在哪里找到我
+| 掘金 | 简书 | 邮箱|
+| :-: | :-: | :-: |
+| [点我](https://juejin.cn/user/3702810894932487) | [点我](https://www.jianshu.com/u/1487025239ff) | gg1816807688@gmail.com|
+
 <img src= "https://github-readme-stats.vercel.app/api?username=ljr7822&count_private=true&show_icons=true&hide=prs&hide_title=true" width="50%">
 <!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ljr7822&theme=material-palenight&hide_border=false" alt="ljr7822" /></p> -->
 <!--
